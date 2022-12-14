@@ -15,4 +15,7 @@ The example uses MongoDB so if you would like to run it you will need to have a 
 The community edition is fine. I am sure other databases can be supported but the example used Mongo and I quite 
 like Mongo :)
 
+## Run the project
+```./gradlew run```
+
 
